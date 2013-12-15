@@ -8,6 +8,7 @@ XHMediaRecorder
 ##Installation
 
 中文:[CocosPods](http://cocosPods.org)安装XHMediaRecorder的推荐方法,只是在Podfile添加以下行:
+
 english:[CocosPods](http://cocosPods.org) is the recommended methods of installation XHMediaRecorder, just add the following line to `Profile`:
 
 ## Profile
@@ -19,4 +20,5 @@ pod 'XHMediaRecorder'
 ## License
 
 中文:XHMediaRecorder 是在MIT协议下使用的，可以在LICENSE文件里面找到相关的使用协议信息.
+
 English:XHMediaRecorder is acailable under the MIT license, see the LICENSE file for more information.
